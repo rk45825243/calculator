@@ -6,11 +6,7 @@ printf("\n Enter two numbers :");
 scanf("%d",&a);
 scanf("%d",&b);
 int sum = a + b;
+  int mul = a*b;
 printf("\n Sum = %d",&sum);
-//tevin's code begins
-  
-int diff = a - b;
-printf("\n Difference = %d",&diff);
-
-
+  printf("\n Product = "%d", & mul) ;
 }
